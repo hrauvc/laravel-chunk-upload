@@ -2,6 +2,7 @@
   "name": "pion/laravel-chunk-upload",
   "description": "Service for chunked upload with several js providers",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Martin Kluska",
